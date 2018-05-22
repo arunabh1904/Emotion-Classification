@@ -1,4 +1,4 @@
-# Emotion-Classification
+# Emotion-Classification 
 Takes in training data through a file iterator and trains an 'n' - layered feedforward neural network by simple backpropagation. The neural network is then asked to predict the orientation of the faces and classify them into four categories.
 
 The code is in a single python script file and commented properly to highlight what each function does.
